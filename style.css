@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    width: 100%;
+    background-color: darkgrey;
+    height: 100px;
+}
+.header__img{
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    margin-left: 500px;
+    
+}
+.information__name{
+    text-align: center;
+}
+.information__age{
+text-align: center;
+margin-top: 10px;
+}
+.information__surname{
+text-align: center;
+margin-top: 10px;
+}
+.information__hometown{
+text-align: center;
+margin-top: 10px;
+}
+.information__gender{
+text-align: center;
+margin-top: 10px;
+}
+.information__school{
+text-align: center;
+margin-top: 10px;
+}
